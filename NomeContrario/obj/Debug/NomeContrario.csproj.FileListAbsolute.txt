@@ -1,0 +1,6 @@
+C:\Users\vinicius.fernandes\source\repos\NomeContrario\NomeContrario\bin\Debug\NomeContrario.exe.config
+C:\Users\vinicius.fernandes\source\repos\NomeContrario\NomeContrario\bin\Debug\NomeContrario.exe
+C:\Users\vinicius.fernandes\source\repos\NomeContrario\NomeContrario\bin\Debug\NomeContrario.pdb
+C:\Users\vinicius.fernandes\source\repos\NomeContrario\NomeContrario\obj\Debug\NomeContrario.csprojAssemblyReference.cache
+C:\Users\vinicius.fernandes\source\repos\NomeContrario\NomeContrario\obj\Debug\NomeContrario.exe
+C:\Users\vinicius.fernandes\source\repos\NomeContrario\NomeContrario\obj\Debug\NomeContrario.pdb
